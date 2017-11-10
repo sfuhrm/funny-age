@@ -2,7 +2,7 @@
  * age.c
  *
  *  Created on: 10.11.2017
- *      Author: fury
+ *      Author: Stephan Fuhrmann
  */
 
 #define _XOPEN_SOURCE
