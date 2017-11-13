@@ -2,6 +2,8 @@
 
 An example project showing the funny time API available for C.
 
+![Screenshot Funny Age](http://sfuhrm.de/wp-content/uploads/2017/11/funny-age.png "Screenshot Funny Age")
+
 This project is really just fun. Don't take it too seriously.
 
 ## License
